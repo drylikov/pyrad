@@ -1,0 +1,16 @@
+# A simple dictionary
+
+ATTRIBUTE  Test-String       1       string
+ATTRIBUTE  Test-Octets       2       octets
+ATTRIBUTE  Test-Integer      3       integer
+ATTRIBUTE  Test-Ip-Address   4       ipaddr
+ATTRIBUTE  Test-Ipv6-Address 5       ipv6addr
+ATTRIBUTE  Test-If-Id        6       ifid
+ATTRIBUTE  Test-Date         7       date
+ATTRIBUTE  Test-Abinary      8       abinary
+ATTRIBUTE  Test-Tlv          9       tlv
+ATTRIBUTE  Test-Tlv-Str      9.1     string
+ATTRIBUTE  Test-Tlv-Int      9.2     integer
+ATTRIBUTE  Test-Integer64    10      integer64
+ATTRIBUTE  Test-Integer64-Hex    0x0a      integer64
+ATTRIBUTE  Test-Integer64-Oct    0o12      integer64
